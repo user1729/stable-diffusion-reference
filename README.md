@@ -23,7 +23,7 @@ VAE instead of learning a code,learns a latent space that represents the paramet
 
 
 
-![text_to_image](/media/rahul/All_files/Workspace/Collection_for_ml_Notes/Coursera/stable_diffusion/images/t2i.png)
+![text_to_image](images/t2i.png)
 
 ```
 1. Text prompt is given to CLIP encoder. eg: a dog with glasses
@@ -43,7 +43,7 @@ VAE instead of learning a code,learns a latent space that represents the paramet
 
 ## Stable Diffusion: Image-to-Image
 
-![image_to_image](/media/rahul/All_files/Workspace/Collection_for_ml_Notes/Coursera/stable_diffusion/images/i2i.png)
+![image_to_image](images/i2i.png)
 
 <br>
 
@@ -64,7 +64,7 @@ VAE instead of learning a code,learns a latent space that represents the paramet
 
 ## Stable Diffusion: In-painting
 
-![image_to_image](/media/rahul/All_files/Workspace/Collection_for_ml_Notes/Coursera/stable_diffusion/images/inpaint.png)
+![image_to_image](inpaint.png)
 
 ```
 1. Text prompt is given to CLIP encoder. eg: a dog running

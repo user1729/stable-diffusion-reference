@@ -64,7 +64,7 @@ VAE instead of learning a code,learns a latent space that represents the paramet
 
 ## Stable Diffusion: In-painting
 
-![image_to_image](inpaint.png)
+![image_to_image](images/inpaint.png)
 
 ```
 1. Text prompt is given to CLIP encoder. eg: a dog running
@@ -88,4 +88,4 @@ The normalization is performed similar to layer norm - along feature dimension -
 all features are normalized - local features are grouped and normalized separately.
 ```
 
-![group_norm](/media/rahul/All_files/Workspace/Collection_for_ml_Notes/Coursera/stable_diffusion/images/group_norm.png)
+![group_norm](images/group_norm.png)

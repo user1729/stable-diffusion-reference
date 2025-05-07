@@ -15,7 +15,7 @@ VAE instead of learning a code,learns a latent space that represents the paramet
 2. We use convolutions to reduce image size and increase feature size .
 ```
 
-**NOTE: The dimensions of UNet shown in following figures doesn't correspond to the actual UNet dimensions used in case of diffusion models. **
+**NOTE: The dimensions of UNet shown in following figures doesn't correspond to the actual UNet dimensions used in case of diffusion models.**
 
 <br>
 
